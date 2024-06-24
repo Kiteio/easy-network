@@ -20,7 +20,7 @@
 > 网线和 wifi 的 ip 是不同的，我使用的是网线的 ip，然后连 wifi 也能登录验证，挺奇怪。
 ### 方法一
 1. 连接校园网， 打开[链接](http://100.64.13.17/drcom/chkstatus?callback=dr1002&jsVersion=4.1.3&v=4833&lang=zh)
-2. `Ctrl`+`F`查找 **v4ip**
+2. `Ctrl`+`F`查找 **v46ip**
 
 ### 方法二（Windows）
 `设置` > `网络和 Internet` > `属性` > `IPv4 地址`
